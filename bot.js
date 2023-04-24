@@ -44,4 +44,6 @@ bot.on("message", async message => {
     if (commandfile) commandfile.run(bot, message, args, con);
 });
 
+//Hey gio, lessgo
+
 bot.login('TOKEN')
